@@ -1,4 +1,4 @@
-# ContinutyIsKey
+# AutomationIsKey
 :octocat: Auto generating Github contributions everyday using Github Actions.
 
 # How to use
